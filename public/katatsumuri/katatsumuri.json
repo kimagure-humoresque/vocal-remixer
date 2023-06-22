@@ -1,0 +1,18 @@
+{
+  "bgm": "katatsumuri/katatsumuri.m4a",
+  "vocals": [
+    "katatsumuri/katatsumuri_jvs004.m4a",
+    "katatsumuri/katatsumuri_jvs010.m4a"
+  ],
+  "artists": [
+    "JVS004", "JVS010"
+  ],
+  "segments": [
+    {"start": 4.400, "end": 9.320, "singers": [0]},
+    {"start": 9.320, "end": 14.109, "singers": [1]},
+    {"start": 14.109, "end": 18.937, "singers": [0, 1]},
+    {"start": 18.937, "end": 23.757, "singers": [1]},
+    {"start": 23.757, "end": 28.486, "singers": [0]},
+    {"start": 28.486, "end": 33.373, "singers": [0, 1]}
+  ]
+}
